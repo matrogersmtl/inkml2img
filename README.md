@@ -1,4 +1,7 @@
-# Convert inkml to image
+[![Codeship Status for matrogersmtl/inkml2img](https://app.codeship.com/projects/7a45db92-74e7-4857-91b1-234da8c42e3c/status?branch=master)](https://app.codeship.com/projects/423474)
+
+#
+Convert inkml to image
 Convert inkml to image
 
 ### How to use
